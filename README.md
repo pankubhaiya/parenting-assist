@@ -40,7 +40,7 @@ To get started with the Parenting Assist Application, follow the steps below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/git-rishab/parent-guide.git
+   git clone https://github.com/pankubhaiya/parenting-assist.git
   
 2. Install Dependencies:
 
